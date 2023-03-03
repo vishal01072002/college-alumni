@@ -11,7 +11,7 @@
 }
 
 .container{
-    margin: 10% auto;
+    margin: 2rem auto;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -76,8 +76,8 @@
 /* login text content section */
 
 .login-content{
-    /* margin: 1rem; */
-    padding: 10px 1rem;
+    margin: 1rem;
+    /* padding: 10px 1rem; */
 }
 
 .login-content h2,.login-content p{
@@ -276,7 +276,7 @@
 @media (max-width:430px) {
 
     .container{
-        margin:10% 0.8rem ;
+        margin:2rem 0.8rem ;
     }    
 
     .content-header{
